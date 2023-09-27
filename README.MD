@@ -1,1 +1,0 @@
-# blog web generate by hugo

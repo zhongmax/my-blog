@@ -3,9 +3,17 @@
         <title>我的全新 Hugo 网站</title>
         <link>http://blog.maxzh.xyz/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 27 Sep 2023 17:41:19 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 18 Feb 2024 23:16:42 &#43;0800</lastBuildDate>
             <atom:link href="http://blog.maxzh.xyz/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>docker配置mysql(5.7、8.0)</title>
+    <link>http://blog.maxzh.xyz/posts/docker_config_mysql/</link>
+    <pubDate>Sun, 18 Feb 2024 23:16:42 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>http://blog.maxzh.xyz/posts/docker_config_mysql/</guid>
+    <description><![CDATA[下载镜像 # 8.0 docker pull mysql:8.0.35 # 5.7 docker pull mysql:5.7.44 启动命令 5.7 创建文件夹 mkdir ~/data/mysql5.7 \ ~/data/mysql5.7/log \ ~/data/mysql5.7/data \ ~/data/mysql5.7/conf.d \ ~/data/mysql5.7/mysql-files 如果需要配置/etc/my.cnf文件，需要先启动一个测试的容器，然后将]]></description>
+</item>
+<item>
     <title>First_post</title>
     <link>http://blog.maxzh.xyz/posts/first_post/</link>
     <pubDate>Wed, 27 Sep 2023 17:41:19 &#43;0800</pubDate>

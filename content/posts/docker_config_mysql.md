@@ -1,7 +1,6 @@
 ---
 title: "docker配置mysql(5.7、8.0)"
 date: 2024-02-18T23:16:42+08:00
-draft: true
 ---
 
 ### 下载镜像

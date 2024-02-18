@@ -2,9 +2,10 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>http://blog.maxzh.xyz/about/</loc><lastmod>2024-02-18T23:42:11&#43;08:00</lastmod></url><url>
             <loc>http://blog.maxzh.xyz/posts/docker_config_mysql/</loc><lastmod>2024-02-18T23:16:42&#43;08:00</lastmod></url><url>
-            <loc>http://blog.maxzh.xyz/posts/</loc><lastmod>2024-02-18T23:16:42&#43;08:00</lastmod></url><url>
             <loc>http://blog.maxzh.xyz/</loc><lastmod>2024-02-18T23:16:42&#43;08:00</lastmod></url><url>
+            <loc>http://blog.maxzh.xyz/posts/</loc><lastmod>2024-02-18T23:16:42&#43;08:00</lastmod></url><url>
             <loc>http://blog.maxzh.xyz/posts/first_post/</loc><lastmod>2023-09-27T17:41:19&#43;08:00</lastmod></url><url>
             <loc>http://blog.maxzh.xyz/categories/</loc></url><url>
             <loc>http://blog.maxzh.xyz/tags/</loc></url></urlset>

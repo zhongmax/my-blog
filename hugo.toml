@@ -4,7 +4,7 @@ baseURL = "http://blog.maxzh.xyz/"
 theme = "LoveIt"
 
 # 网站标题
-title = "我的全新 Hugo 网站"
+title = "maxwell的博客"
 
 # 网站语言, 仅在这里 CN 大写 ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "zh-CN"
@@ -15,8 +15,8 @@ hasCJKLanguage = true
 
 # 作者配置
 [author]
-  name = "xxxx"
-  email = ""
+  name = "maxwell"
+  email = "zhong.maxwell@gmail.com"
   link = ""
 
 # 菜单配置
@@ -48,6 +48,15 @@ hasCJKLanguage = true
     name = "分类"
     url = "/categories/"
     title = ""
+  [[menu.main]]
+    weight = 4
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "关于"
+    url = "/about/"
+    title = ""
+    
 
 # Hugo 解析文档的配置
 [markup]
